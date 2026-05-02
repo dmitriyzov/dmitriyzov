@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## 🌱 What I’m learning
 
-- ☸️ **[Kubernetes](https://github.com/dmitriyzov/kubernetes-refresher)** - A hands-on Kubernetes course
+- ☸️ **[Kubernetes](https://github.com/dmitriyzov/kubernetes-course)** - A hands-on Kubernetes course
 
 ## 📫 How to reach me
 
