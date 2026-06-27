@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ## 🔭 What I’m currently working on
 
+- ☕️ **[Baratza GBW](https://github.com/dmitriyzov/baratza-gbw)** - Grind-by-weight mod for the Baratza Encore ESP.
+
 - 🗒️ **[PHPsidian](https://github.com/dmitriyzov/phpsidian)** - A small personal Obsidian-like notes application built with plain PHP 8.x and SQLite.
 
 - 🖥️ **[Terminal Config](https://github.com/dmitriyzov/terminal-config)** - A simple, clean, and practical Zsh setup for a better terminal experience.
