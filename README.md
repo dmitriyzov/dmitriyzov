@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔭 What I’m currently working on
+## 👨‍💻 What I’m building
 
 - ☕️ **[Baratza GBW](https://github.com/dmitriyzov/baratza-gbw)** - Grind-by-weight mod for the Baratza Encore ESP.
 
@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 
 ## 📫 How to reach me
 
-- 🧑‍💻 **[My LinkedIn](https://www.linkedin.com/in/dmitriy-zov/)**
+- 👨‍💻 **[My LinkedIn](https://www.linkedin.com/in/dmitriy-zov/)**
